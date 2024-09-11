@@ -16,7 +16,7 @@ Installation
 Clone the Repository:
 bash
 Copy code
-#### git clone https://github.com/yourusername/amazon-prime-dashboard.git
+## git clone https://github.com/yourusername/amazon-prime-dashboard.git
 Open the Dashboard:
 Launch Power BI Desktop.
 Open the .pbix file from the cloned repository.
