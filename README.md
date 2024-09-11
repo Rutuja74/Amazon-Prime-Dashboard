@@ -1,4 +1,4 @@
-#Amazon Prime Dashboard
+# Amazon Prime Dashboard
 Overview
 This repository contains a Power BI dashboard designed to visualize and analyze data related to Amazon Prime. The dashboard provides insights into various metrics and performance indicators, offering a comprehensive view of user engagement, subscription statistics, and other key aspects relevant to Amazon Prime.
 
@@ -16,7 +16,7 @@ Installation
 Clone the Repository:
 bash
 Copy code
-### git clone https://github.com/yourusername/amazon-prime-dashboard.git
+#### git clone https://github.com/yourusername/amazon-prime-dashboard.git
 Open the Dashboard:
 Launch Power BI Desktop.
 Open the .pbix file from the cloned repository.
